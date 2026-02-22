@@ -1,6 +1,5 @@
-Title:      Intercepted Voice Notes
-Category:   Digital Forensics (Audio)
-Difficulty: Medium
+Title:      Fijibi
+Category:   Digital Forensics 
 
 Description:
   During an investigation into a small online fraud group, investigators
